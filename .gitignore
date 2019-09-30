@@ -1,0 +1,6 @@
+downloads*
+client_id.json
+*.pytest_cache
+__pycache__/
+*.py[cod]
+*$py.class
